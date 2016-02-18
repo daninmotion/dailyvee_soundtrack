@@ -15,3 +15,11 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+/* My attempt to Infinite scroll
+$(window).scroll(function () { 
+  if ($(window).scrollTop() >= $(document).height() - $(window).height() - 2) {
+    //Add something at the end of the page
+  }
+});
+*/
