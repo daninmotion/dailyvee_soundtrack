@@ -48,6 +48,16 @@ h1 {
   font-size: 2.5em;
 }
 
+p {
+  font-size: 1.5em;
+}
+
+.element.style {
+    border-bottom-color: #ecf0f1;
+    width: 100%;
+    height: 208px;
+}
+
 /***iPhone(small screen)**/
 @media only screen and (min-width: 320px) and (max-width: 767px) {
   
