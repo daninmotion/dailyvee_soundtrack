@@ -7,4 +7,6 @@ Rails.application.routes.draw do
   get '/page3', to: 'home#page3'
 
   get '/page4', to: 'home#page4'
+
+  get '/page5', to: 'home#page5'
 end
